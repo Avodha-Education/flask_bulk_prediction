@@ -4,4 +4,4 @@ Instal the packages from requirements.txt using pip install -r requirements.txt
 
 And run the flask file app.py using python app.py
 
-upload the sample file  test.csv and get your prediction in .csv
+upload the sample file  test_file.csv and get your prediction in .csv
